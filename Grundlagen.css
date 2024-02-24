@@ -1,0 +1,57 @@
+body {
+    background: hotpink;
+}
+h1,h2,h3{
+       
+}
+.test_container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.664);
+}
+
+/* Stile für die Überschrift h2 */
+.test_container h2 {
+    color: #333;
+    text-shadow: 5px 5px 5px rgba(0, 0, 0, 0.554);
+    font-size: 2rem;
+}
+
+/* Stile für den Inhalt */
+.test_content {
+    margin-top: 15px;
+}
+
+.test_content img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+
+/* Stile für den Link innerhalb des Inhalts */
+.test_content a {
+    color: #007bff;
+    text-decoration: none;
+    font-size: 1.5rem;
+}
+
+/* Stile für den Textabschnitt innerhalb des Inhalts */
+.test_content p {
+    color: #555;
+    line-height: 1.5;
+    font-size: 1rem;
+    font-weight: 400;
+}
+.test_content span{
+    color: blue;
+    font-weight: bolder;
+}
+.test_content span:hover{
+    cursor: pointer;
+}
+
+/* Font Size der Texte wir groß sie sind */
