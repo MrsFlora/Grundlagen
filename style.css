@@ -1,0 +1,14 @@
+.header_container{
+    display: flex;
+    justify-content: center;
+}
+.navbar_container{
+    display: flex;
+    justify-content: center;
+}
+ul {
+    list-style: none;
+}
+h1{
+    color: rgb(255, 0, 0);
+}
